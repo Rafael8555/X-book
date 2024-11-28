@@ -1,0 +1,20 @@
+@import url("style/header.css");
+@import url("style/bunner.css");
+@import url("style/carrossel.css");
+@import url("style/topicos.css");
+@import url("style/contato.css");
+@import url("style/rodape.css");
+:root {
+    --cor-de-fundo: #d6d5d5;
+    --branco: #FFFFFF;
+    --vermelho: #600808;
+    --preto: #000;
+    --fonte-principal: "Poppins";
+}
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+
+}
